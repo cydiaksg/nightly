@@ -1,0 +1,28 @@
+<package>
+	<id>com.anemonetheming.anemone</id>
+	<name>AnemoneLow</name>
+	<version>2.1.7-7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>An awesome theming engine for iOS 7 through iOS 11!</description>
+		<description></description>
+		<description>Provide AnemoneFonts and AnemoneColors</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>anemone.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Provide AnemoneFonts and AnemoneColors</change>
+	</changelog>
+</package>
