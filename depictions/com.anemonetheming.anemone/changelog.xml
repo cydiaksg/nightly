@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>2.1.7-7</version>
-        <change>Provide AnemoneFonts and AnemoneColors</change>
+		<version>0.0.1-2</version>
+		<change>Initial release</change>
 	</changes>
 </changelog>
