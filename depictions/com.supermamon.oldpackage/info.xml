@@ -1,11 +1,10 @@
 <package>
-	<id>com.cabralcole.forceinpicture</id>
-	<name>ForceInPicture</name>
-	<version>0.0.1-2</version>
+	<id>com.supermamon.oldpackage</id>
+	<name>Old Package</name>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-		    <miniOS>9.0</miniOS>
-			<maxiOS>11.4</maxiOS>
+			<maxiOS>7.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -14,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>"Programmatically" enable picture in picture feature on unsupported devices.</description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
