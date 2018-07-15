@@ -1,8 +1,0 @@
-Origin: Kwon Soongyu's Repository
-Label: Kwon Soongyu
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Kwon Soongyu's Cydia Repo
